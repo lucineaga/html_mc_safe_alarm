@@ -457,7 +457,7 @@ ul,li{
 }
 .main-header .main-logo img{
 	padding: 20px 50px;
-	border-right: 1px solid #e5e5e5;
+	border-right: none;
 }
 .main-header .contact-links {
 	position: absolute;
@@ -817,7 +817,7 @@ ul,li{
 	color: #848484;
 	border: 1px solid #e5e5e5;
 	border-radius: 25px;
-	text-transform: capitalize;
+	text-transform: none;
 	font-family: 'Open Sans', sans-serif;
 	transition: all 1500ms ease;
 }
@@ -1279,8 +1279,8 @@ ul,li{
 	background: #252936;
 }
 .footer-top{
-	padding-top: 82px;
-	padding-bottom: 86px;
+	padding-top: 52px;
+	padding-bottom: 50px;
 }
 .footer-top .left-column{
 	position: relative;
